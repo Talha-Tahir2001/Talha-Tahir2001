@@ -10,7 +10,7 @@
     
 - 🌱 I’m currently learning the dynamic world of game development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
 - 🕹️ Gaming Journey:
-As an avid gamer, I strongly believe that video games can be taken to new heights by integrating AI and ML. Whether it's creating dynamic NPCs with advanced behavior, implementing procedural content generation, or designing intelligent adversaries, AI and ML can elevate gameplay to unparalleled levels of excitement and unpredictability.
+As an avid gamer, I strongly believe that video games can be taken to new heights by integrating AI and ML. Whether it's creating dynamic NPCs with advanced behaviour, implementing procedural content generation, or designing intelligent adversaries, AI and ML can elevate gameplay to unparalleled levels of excitement and unpredictability.
 
 - 🤖 AI & ML Enthusiasm:
 Delving into the world of AI and ML has been an eye-opening experience. The ability to train models, recognize patterns, and make data-driven decisions has immense potential in shaping the future of video games. I'm continually exploring new AI techniques and algorithms to create groundbreaking gaming experiences.
