@@ -4,9 +4,9 @@
    * 🎲 Unity3D & Unreal Engine
    * 🌐 ASP.NET & ASP.NET Core
    * 🗃️ SQL Server & Entity Framework
-   * 🎮 C#, C++, and JavaScript
+   * 🎮 C#, C++, and Python
    * 📱 Mobile Game Development (iOS & Android)
-   * 🤖 AI & ML frameworks (TensorFlow, PyTorch, ML.NET)
+   * 🤖 AI & ML frameworks (Scikit-Learn, TensorFlow, PyTorch, ML.NET)
     
 - 🌱 I’m currently learning the dynamic world of game development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
 - 🕹️ Gaming Journey:
