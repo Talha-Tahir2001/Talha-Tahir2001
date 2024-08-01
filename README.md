@@ -13,9 +13,16 @@
 As an avid gamer, I strongly believe that video games can be taken to new heights by integrating AI and ML. Whether it's creating dynamic NPCs with advanced behaviour, implementing procedural content generation, or designing intelligent adversaries, AI and ML can elevate gameplay to unparalleled levels of excitement and unpredictability.
 
 - 🤖 AI & ML Enthusiasm:
-Delving into the world of AI and ML has been an eye-opening experience. The ability to train models, recognize patterns, and make data-driven decisions has immense potential in shaping the future of video games. I'm continually exploring new AI techniques and algorithms to create groundbreaking gaming experiences.
+Delving into the world of AI and ML has been an eye-opening experience. The ability to train models, recognize patterns and make data-driven decisions has immense potential in shaping the future of video games. I'm continually exploring new AI techniques and algorithms to create groundbreaking gaming experiences.
 
 <!---
 Talha-Tahir2001/Talha-Tahir2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
