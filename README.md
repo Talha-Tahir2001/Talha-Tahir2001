@@ -7,6 +7,8 @@
    * 🎮 C#, C++, and Python
    * 📱 Mobile Game Development (iOS & Android)
    * 🤖 AI & ML frameworks (Scikit-Learn, TensorFlow, PyTorch, ML.NET)
+
+[![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=9)](https://visitcount.itsvg.in)
     
 - 🌱 I’m currently learning the dynamic world of game development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
 - 🕹️ Gaming Journey:
@@ -14,6 +16,11 @@ As an avid gamer, I strongly believe that video games can be taken to new height
 
 - 🤖 AI & ML Enthusiasm:
 Delving into the world of AI and ML has been an eye-opening experience. The ability to train models, recognize patterns and make data-driven decisions has immense potential in shaping the future of video games. I'm continually exploring new AI techniques and algorithms to create groundbreaking gaming experiences.
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/talhatahir0152) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-tahir1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@talha666tahir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/16762504](https://stackoverflow.com/users/20716432/talha-tahir))  
+
+
 
 <!---
 Talha-Tahir2001/Talha-Tahir2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
