@@ -56,7 +56,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/talha666tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/talha666tahir" height="30" width="40" /></a>
 </p>
 
-
+---
 
 ## 💻My Tech Stack  
 <table><tr><td valign="top" width="33%">
