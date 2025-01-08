@@ -120,7 +120,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 ![](https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Tahir2001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-tahir2001&show_icons=true&locale=en&layout=compact" alt="talha-tahir2001" /></p>
 
