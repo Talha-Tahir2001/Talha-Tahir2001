@@ -19,6 +19,7 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.g
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-tahir2001" alt="talha-tahir2001" /></a> </p>
 -->
+
 ---
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Myself 
 
@@ -115,12 +116,41 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 <br/> 
 
-
+<!--
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Tahir2001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+-->
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
+<table align='center'>
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%">
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Tahir2001&theme=radical&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+<!--
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+-->
+
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-tahir2001&show_icons=true&locale=en&layout=compact" alt="talha-tahir2001" /></p>
 
