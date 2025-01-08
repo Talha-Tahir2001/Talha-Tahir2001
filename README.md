@@ -37,9 +37,9 @@ As an avid gamer, I strongly believe that video games can be taken to new height
 - 🤖 AI & ML Enthusiasm:
 Delving into the world of AI and ML has been an eye-opening experience. The ability to train models, recognize patterns and make data-driven decisions has immense potential in shaping the future of web apps. I'm continually exploring new AI techniques and algorithms to create groundbreaking web experiences.
 
-- 💬 Ask me about **Dotnet Core, Angular, Blazor**
+- 💬 Ask me about any aspect of Web development or share your thoughts on the latest tech trends
 
-- 📫 How to reach me **talha666tahir@gmail.com**
+- 📫 Reach out to me at **talha666tahir@gmail.com**. Let's collaborate on something awesome!
 
 [![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=9)](https://visitcount.itsvg.in)
 
@@ -57,7 +57,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 ---
 
-## My Skill Set  
+## 💻My Tech Stack  
 <table><tr><td valign="top" width="33%">
 
 
@@ -86,7 +86,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -114,7 +114,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 </td></tr></table>  
 
 <br/> 
----
+
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -141,6 +141,8 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 ---
 ### 😂Random Dev Meme
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+---
 <!--
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
