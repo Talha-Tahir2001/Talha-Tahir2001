@@ -20,16 +20,7 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.g
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-tahir2001" alt="talha-tahir2001" /></a> </p>
 -->
 ---
-## 🔍Interests
-- 👀 I’m interested in
-   * 💻 .NET Framework & .NET Core
-   * 🌐 Angular, React/NextJS, Blazor
-   * 🤖 AI & ML frameworks (Scikit-Learn, TensorFlow, PyTorch, ML.NET)
-   * 🎲 Unity3D & Unreal Engine
-   * 🎮 C#, C++, Typescript and Python
-- 🔭 I’m currently working on [Vaultify](https://github.com/Talha-Tahir2001/Vaultify)
-
-## About Myself
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Myself 
 
 - 🌱 I’m currently learning the dynamic world of web development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
 - 🕹️ Gaming Journey:
@@ -41,8 +32,17 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 - 📫 Reach out to me at **talha666tahir@gmail.com**. Let's collaborate on something awesome!
 
-[![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=9)](https://visitcount.itsvg.in)
+---
 
+## 🔍Interests
+- 👀 I’m interested in
+   * 💻 .NET Framework & .NET Core
+   * 🌐 Angular, React/NextJS, Blazor
+   * 🤖 AI & ML frameworks (Scikit-Learn, TensorFlow, PyTorch, ML.NET)
+   * 🎲 Unity3D & Unreal Engine
+   * 🎮 C#, C++, Typescript and Python
+- 🔭 I’m currently working on [Vaultify](https://github.com/Talha-Tahir2001/Vaultify)
+[![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=9)](https://visitcount.itsvg.in)
 ---
 
 ## 📱 Connect with me
@@ -55,7 +55,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/talha666tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/talha666tahir" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## 💻My Tech Stack  
 <table><tr><td valign="top" width="33%">
@@ -145,8 +145,11 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 ---
 <!--
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<p align="center">
+  <img  src="https://readme-jokes.vercel.app/api?type=horizontal&theme=tokyonight" alt="Jokes Card" style="width: 100%; max-width: 800px; " />
+</p>
 -->
-
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=0)](https://visitcount.itsvg.in)
