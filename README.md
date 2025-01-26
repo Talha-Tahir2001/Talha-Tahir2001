@@ -42,8 +42,10 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
    * 🤖 AI & ML frameworks (Scikit-Learn, TensorFlow, PyTorch, ML.NET)
    * 🎲 Unity3D & Unreal Engine
    * 🎮 C#, C++, Typescript and Python
+<!--
 - 🔭 I’m currently working on [Vaultify](https://github.com/Talha-Tahir2001/Vaultify)
 [![](https://visitcount.itsvg.in/api?id=Talha-Tahir2001&icon=0&color=9)](https://visitcount.itsvg.in)
+-->
 ---
 
 ## 📱 Connect with me
