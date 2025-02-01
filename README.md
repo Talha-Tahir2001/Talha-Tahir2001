@@ -21,6 +21,9 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.g
 -->
 
 ---
+## 🤖Open Source
+[![An image of @talhatahir2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhatahir2001)](https://holopin.io/@talhatahir2001)
+---
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Myself 
 
 - 🌱 I’m currently learning the dynamic world of web development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
