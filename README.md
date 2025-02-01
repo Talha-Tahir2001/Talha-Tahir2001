@@ -116,16 +116,17 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 ---
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
+<!--
 <table align='center'>
-  <tr>
-    <td align="center">
+  <tr border='none'>
+    <td width='20%' align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
     <td align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false" alt="GitHub Streak">
     </td>
   </tr>
-  <tr>
+  <tr border='none'>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%">
     </td>
@@ -134,6 +135,35 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
     </td>
   </tr>
 </table>
+-->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <!-- GitHub Stats -->
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Talha-Tahir2001&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  
+  <!-- GitHub Streak -->
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false" /> 
+
+</td>
+<td width="50%" align="center">
+
+  <!-- Most Used Languages -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%">
+</td>
+</tr>
+
+<!-- GitHub Activity Graph -->
+<tr>
+<td colspan="2" align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-Tahir2001&theme=radical&radius=16&bg_color=0f0321" alt="GitHub Activity Graph" width="100%" style="border-radius: 16px;">
+</td>
+</tr>
+
+</table>
+
 
 ## 🤖Open Source
 [![An image of @talhatahir2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhatahir2001)](https://holopin.io/@talhatahir2001)
