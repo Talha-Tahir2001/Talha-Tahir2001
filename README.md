@@ -211,6 +211,20 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
+
+<!--
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="width: 100%; max-width: 800px;" />
+</p>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<p align="center">
+  <img  src="https://readme-jokes.vercel.app/api?type=horizontal&theme=radical" alt="Jokes Card" style="width: 100%; max-width: 800px; " />
+</p>
+-->
 <!--
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
