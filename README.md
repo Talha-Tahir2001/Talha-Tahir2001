@@ -11,7 +11,7 @@ https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.g
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate and experienced Software Engineer with a strong love for creating captivating apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-tahir2001&label=Profile%20views&color=0e75b6&style=flat" alt="talha-tahir2001" /> </p>
-
+---
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Myself 
 
 - 🌱 I’m currently learning the dynamic world of web development and technology, there's always something new to learn. I'm committed to staying up-to-date with the latest trends, tools, and frameworks, as it allows me to push the boundaries of what's possible in gaming and enhance my skills as a developer.
