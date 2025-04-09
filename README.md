@@ -40,7 +40,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 ---
 ## 📱 Connect with me
 <p align="left">
-<a https://www.linkedin.com/in/talha-tahir1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-tahir1/" height="30" width="40" /></a>
+<a https:https//www.linkedin.com/in/talha-tahir1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-tahir1/" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/talha666tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/talha666tahir" height="30" width="40" /></a>
 <a href="https://medium.com/@talha666tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@talha666tahir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/20716432/talha-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/20716432/talha-tahir" height="30" width="40" /></a>
