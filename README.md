@@ -151,19 +151,21 @@ Built at the **Band of Agents Hackathon**. A multi-agent hiring pipeline that re
 <br/>
 
 ## 🕹️ Contribution Graph Arcade
-
+### Pac-Man
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph.svg" />
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph.svg" />
 </picture>
 
+### Galaga
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg" />
   <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg" />
 </picture>
 
+### Bomberman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph.svg" />
