@@ -166,6 +166,26 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 </table>
 
+---
+
+## 🟡 My Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+---
 
 ## 🤖Open Source
 [![An image of @talhatahir2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhatahir2001)](https://holopin.io/@talhatahir2001)
