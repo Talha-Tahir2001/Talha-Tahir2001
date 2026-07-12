@@ -187,6 +187,40 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg"
+  />
+  <img
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg"
+  />
+</picture>
+
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph.svg"
+  />
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph.svg"
+  />
+</picture>
+
+---
+
 ## 🤖Open Source
 [![An image of @talhatahir2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhatahir2001)](https://holopin.io/@talhatahir2001)
 ---
