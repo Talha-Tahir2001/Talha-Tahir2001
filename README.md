@@ -190,7 +190,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/galaga-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -207,7 +207,7 @@ Delving into the world of AI and ML has been an eye-opening experience. The abil
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Talha-Tahir2001/Talha-Tahir2001/output/bomberman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
