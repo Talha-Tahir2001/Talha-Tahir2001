@@ -46,16 +46,17 @@
 
 ### Backend & Data
 <div align="center">
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/nodejs.svg" alt="Node.js" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50"/></a>
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/dotnet.svg" alt=".Net Core" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/drizzle.svg" alt="Drizzle" height="50" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="50" /></a>
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://clerk.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" alt="Clerk" height="50" /></a>
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /></a>
+
 </div>
 
 </td>
@@ -68,16 +69,16 @@
 <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" height="50" /></a>
-<a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" height="50" /></a>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/langgraph.svg" alt="LangGraph" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/docker-icon.svg" alt="Docker" height="50" /></a>
 </div>
 
 </td>
 </tr>
 </table>
-
 <!-- <p align="center"><sub>Also worked with: Angular · .NET / ASP.NET Core · C#</sub></p> -->
 
 <br/>
