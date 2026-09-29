@@ -72,8 +72,12 @@
 <a href="https://www.langchain.com/langgraph" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/langgraph.svg" alt="LangGraph" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://devicons.io/devicons/icons/docker-icon.svg" alt="Docker" height="50" /></a>
+<a href="https://vercel.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.simpleicons.org/vercel/black#gh-light-mode-only" alt="Vercel" height="50" />
+  <img style="margin: 10px" src="https://cdn.simpleicons.org/vercel/white#gh-dark-mode-only" alt="Vercel" height="50" />
+</a>
+
 </div>
 
 </td>
