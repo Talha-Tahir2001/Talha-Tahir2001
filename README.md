@@ -131,7 +131,7 @@ Built at the **Band of Agents Hackathon**. A multi-agent hiring pipeline that re
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Tahir2001&theme=radical&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats-beta-sand-23.vercel.app/api/top-langs/?username=Talha-Tahir2001&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Talha-Tahir2001&langs_count=6&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="100%">
 </td>
 </tr>
 <tr>
